@@ -7,6 +7,8 @@ A Machine Learning project that predicts whether a customer is likely to churn (
 
 ---
 LIVE DEMO - https://churnpredictionanalysis-8mojyugbcgndz5szdqzb6a.streamlit.app/
+App Screenshot<img width="1523" height="736" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/e89b532d-8f24-441c-a251-e96dcad4b7b8" />
+
 
 ## 📌 Project Overview
 Customer churn is a major challenge for businesses. In this project, we analyze customer data and build a predictive model to identify customers who are at risk of leaving.
