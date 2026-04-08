@@ -22,7 +22,7 @@ with col2:
 
 st.sidebar.title("📌 About")
 st.sidebar.info("ML model to predict churn")
-st.sidebar.markdown("### 👨‍💻 Made by You 🚀")
+st.sidebar.markdown("Made by Shailja⚡✨")
 
 if st.button("🚀 Predict Now"):
     input_dict = {
