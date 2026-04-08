@@ -1,7 +1,5 @@
 # 🚀 Customer Churn Prediction App
-![image](<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/7c542e9f-dd08-43cb-8554-380d477f8910" />
-)
-
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/2263e1cc-2630-48b6-8090-2cd6648a7714" />
 
 A Machine Learning project that predicts whether a customer is likely to churn (leave a service) or not. This helps businesses take proactive steps to improve customer retention.
 
