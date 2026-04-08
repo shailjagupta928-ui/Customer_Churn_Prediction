@@ -40,8 +40,7 @@ To build a model that accurately predicts customer churn and provides insights t
 ---
 
 ## 📈 Model Performance
-(Add your metrics here)
-- Accuracy: XX%
-- Precision: XX%
-- Recall: XX%
-- F1 Score: XX%
+- Accuracy: 0.76
+- Precision: 0.83
+- Recall: 0.92
+- F1 Score: 0.87
