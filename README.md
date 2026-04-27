@@ -7,7 +7,8 @@ A Machine Learning project that predicts whether a customer is likely to churn (
 
 ---
 LIVE DEMO - https://churnpredictionanalysis-8mojyugbcgndz5szdqzb6a.streamlit.app/
-App Screenshot<img width="1523" height="736" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/e89b532d-8f24-441c-a251-e96dcad4b7b8" />
+App Screenshot <img width="1738" height="790" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/69efb812-a06a-4216-914d-7c282299bba0" />
+
 
 
 ## 📌 Project Overview
