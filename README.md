@@ -18,8 +18,16 @@ LIVE DEMO - https://churnpredictionanalysis-8mojyugbcgndz5szdqzb6a.streamlit.app
 
 
 ## 📌 Project Overview
-Customer churn is a major challenge for businesses. In this project, we analyze customer data and build a predictive model to identify customers who are at risk of leaving.
+Customer churn is a major challenge for businesses. In this project, we analyze customer data and build a predictive model to identify customers who are at risk of leaving.It is built using Logistic Regression, Random Forest, and XGBoost with a fully automated sklearn Pipeline and deployed using Streamlit.
 
+
+🧠 Problem Statement
+
+Telecom companies lose revenue when customers leave (churn).
+The goal is to predict churn early so companies can take preventive actions.
+
+
+⚙️ Tech Stack
 The project covers the full ML lifecycle:
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -39,7 +47,9 @@ To build a model that accurately predicts customer churn and provides insights t
 - Pandas, NumPy  
 - Scikit-learn  
 - Matplotlib, Seaborn  
-- Streamlit  
+- Streamlit
+- XGBOOST
+-Joblib (model saving) 
 
 ---
 
@@ -48,12 +58,12 @@ To build a model that accurately predicts customer churn and provides insights t
 - Performed detailed EDA to find churn patterns  
 - Built multiple ML classification models  
 - Selected best model based on performance metrics  
-- Deployed interactive web app using Streamlit  
+- Deployed interactive web app using Streamlit
 
----
+ ##⚙️ Pipeline Features
+Automatic handling of categorical variables (OneHotEncoding)
+Feature scaling (StandardScaler)
+No manual preprocessing required during prediction
+Prevents feature mismatch errors
 
-## 📈 Model Performance
-- Accuracy: 0.76
-- Precision: 0.83
-- Recall: 0.92
-- F1 Score: 0.87
+
