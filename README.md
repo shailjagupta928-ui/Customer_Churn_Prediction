@@ -1,5 +1,7 @@
 # 🚀 Customer Churn Prediction App
 <img width="1523" height="594" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/038fe45a-b7c5-41ab-b0c4-e6dd23362ec9" />
+<img width="1735" height="680" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/845e60a0-e7b3-46f9-b816-2e9abbb90660" />
+
 
 
 
