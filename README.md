@@ -1,6 +1,6 @@
 # 🚀 Customer Churn Prediction App
 <img width="1523" height="594" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/038fe45a-b7c5-41ab-b0c4-e6dd23362ec9" />
-<img width="1735" height="680" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/845e60a0-e7b3-46f9-b816-2e9abbb90660" />
+
 
 
 
@@ -9,7 +9,10 @@ A Machine Learning project that predicts whether a customer is likely to churn (
 
 ---
 LIVE DEMO - https://churnpredictionanalysis-8mojyugbcgndz5szdqzb6a.streamlit.app/
-App Screenshot <img width="1738" height="790" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/69efb812-a06a-4216-914d-7c282299bba0" />
+App Screenshot
+<img width="1738" height="790" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/69efb812-a06a-4216-914d-7c282299bba0" />
+<img width="1735" height="680" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/236364c6-8a1f-4ef4-85dd-97977bed01e0" />
+
 
 
 
